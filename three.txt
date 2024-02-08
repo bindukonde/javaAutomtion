@@ -16,7 +16,7 @@ public class SwitchCase
         switch(d)
         {
             case 1:
-                System.out.print("Sunday");
+                System.out.print("Sunday++");
                 break;
 
             case 2:
