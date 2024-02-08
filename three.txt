@@ -10,7 +10,7 @@ public class SwitchCase
         int d;
         Scanner sc=new Scanner(System.in);
 
-        System.out.print("Enter day number++: ");
+        System.out.print("Enter day number+++: ");
         d=sc.nextInt();
 
         switch(d)
